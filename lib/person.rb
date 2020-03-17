@@ -7,3 +7,5 @@ class Person
     @name = name
   end
 end
+
+Rover = Dog.new("Rover")
